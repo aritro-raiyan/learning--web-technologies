@@ -1,0 +1,2 @@
+Arittro Raiyan|aritroraiyan@gmail.com|ari|1234|Male|24|06|2000
+abc|abc@gmail.com|abc|xyz|Male|13|06|2008
